@@ -1,0 +1,21 @@
+{
+    "workbench.editor.alwaysShowEditorActions": true,
+    "workbench.editor.autoLockGroups": {
+        "default": true,
+        "workbench.editorinputs.searchEditorInput": true,
+        "mainThreadWebview-markdown.preview": true,
+        "jupyter-notebook": true
+    },
+    "workbench.editor.centeredLayoutFixedWidth": true,
+    "workbench.editor.closeOnFileDelete": true,
+    "workbench.editor.editorActionsLocation": "titleBar",
+    "workbench.editor.empty.hint": "text",
+    "workbench.editor.enablePreviewFromCodeNavigation": true,
+    "workbench.editor.enablePreviewFromQuickOpen": true,
+    "workbench.editor.highlightModifiedTabs": true,
+    "workbench.editor.limit.enabled": true,
+    "workbench.editor.wrapTabs": true,
+    "workbench.editor.titleScrollbarSizing": "default",
+    "workbench.editor.tabSizingFixedMinWidth": 50,
+    "workbench.editor.tabSizing": "fit"
+}
